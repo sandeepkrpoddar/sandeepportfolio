@@ -28,7 +28,7 @@ export default function Home() {
     { img: gmailLogo, title: 'Email', link: 'mailto:sandeepkumarpoddar100@gmail.com' },
     { img: whatsappLogo, title: 'WhatsApp', link: 'https://wa.me/+917667281154' },
     { img: instagramLogo, title: 'Instagram', link: 'https://www.instagram.com/p_sonu_76?igsh=MXViYmlxZW9mandjeQ==' },
-    { img: facebookLogo, title: 'Facebook', link: 'https://www.facebook.com/share/1Fzq4du9fn/' },
+    { img: facebookLogo, title: 'Facebook', link: 'https://www.facebook.com/profile.php?id=100025598531614' },
   ]
 
   return (
