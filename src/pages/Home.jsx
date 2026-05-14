@@ -24,7 +24,7 @@ export default function Home() {
 
   const quickLinks = [
     { img: githubLogo, title: 'GitHub', link: 'https://github.com/sandeepkrpoddar' },
-    { img: linkedinLogo, title: 'LinkedIn', link: 'https://www.linkedin.com/in/Sandeep-Kumar-177b49299/' },
+    { img: linkedinLogo, title: 'LinkedIn', link: 'https://www.linkedin.com/in/sandeep-kumar-329113375' },
     { img: gmailLogo, title: 'Email', link: 'mailto:sandeepkumarpoddar100@gmail.com' },
     { img: whatsappLogo, title: 'WhatsApp', link: 'https://wa.me/+917667281154' },
     { img: instagramLogo, title: 'Instagram', link: 'https://www.instagram.com/p_sonu_76?igsh=MXViYmlxZW9mandjeQ==' },
